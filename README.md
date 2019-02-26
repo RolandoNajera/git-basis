@@ -1,6 +1,9 @@
 # git-basis
 important commands and tips to use git and github
 
+Shows the difference between commits
+git diff
+
 git fetch
 
 git pull origin master
